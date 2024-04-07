@@ -1,4 +1,4 @@
-##  Hello, Devs!! Eu sou Isabella Cairac, estudante de Desenvolvimento de Sistemas
+##  Hello, Devs!! Eu sou Isabella Cairac
 
 
 
