@@ -6,6 +6,8 @@
 
 <div>
           <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=isacairac&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
+          <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacairac&layout=compact&langs_count=168theme=dracula"/>
+          
 </div>
           
           
